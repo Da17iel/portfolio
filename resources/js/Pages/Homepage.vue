@@ -1,5 +1,8 @@
 <script setup>
 import BasicLayout from "@/Layouts/BasicLayout.vue";
+import {onMounted} from "vue";
+import HomePageInitialQuestions from "@/Components/HomePageInitialQuestions.vue";
+import HomePageShortAboutMe from "@/Components/HomePageShortAboutMe.vue";
 
 defineOptions({
     layout: BasicLayout,
@@ -9,6 +12,8 @@ defineProps({
     laravelVersion: String,
     phpVersion: String,
 })
+
+
 </script>
 
 <template>
@@ -21,25 +26,17 @@ defineProps({
         </div>
     </section>
 
+
     <section>
-        <div class="h-screen py-12 px-20">
-            <div class="flex flex-col gap-12">
-                <p class="text-[40px] animate-slideLeftInDelay1s">Wer bin ich?</p>
-                <p class="text-[40px] ml-[10vw] animate-slideLeftInDelay2s">Was mache ich?</p>
-                <p class="text-[40px] ml-[25vw] animate-slideLeftInDelay3s">Was sind meine Qualitäten?</p>
-            </div>
-            <p class="mt-12">All diese Fragen und noch mehr werde mithilfe von dieser Website beantworten</p>
+        <div class="h-[80vh] flex flex-col justify-center py-12 px-20">
+            <HomePageInitialQuestions />
         </div>
     </section>
 
+
     <section>
-        <div class="h-screen flex gap-20 py-12 px-20">
-            <div class="w-1/3 animate-slideLeftIn">
-                <img src="/images/Daniel.jpg" alt="Daniel Greil">
-            </div>
-            <div class="w-full animate-slideRightIn">
-                <p class="text-2xl font-bold">Mein Name ist Daniel Greil</p>
-            </div>
+        <div class="h-screen py-12 px-20">
+            <HomePageShortAboutMe />
         </div>
     </section>
 </template>

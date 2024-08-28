@@ -16,7 +16,6 @@ export default {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
             animation: {
-                slideLeftIn: 'slideLeftIn 1s ease-in-out',
                 slideLeftInDelay1s: 'slideLeftIn 1s ease-in-out both',
                 slideLeftInDelay2s: 'slideLeftIn 1s ease-in-out 1s both',
                 slideLeftInDelay3s: 'slideLeftIn 1s ease-in-out 2s both',
