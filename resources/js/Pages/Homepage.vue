@@ -33,6 +33,7 @@ defineProps({
         </div>
     </section>
 
+    <hr>
 
     <section>
         <div class="h-screen py-12 px-20">

@@ -17,7 +17,7 @@
                         <a href="https://www.ict-berufsbildung.ch/grundbildung/ict-lehren/betriebsinformatiker-in-efz" target="_blank">Betriebsinformatiker/in EFZ</a> gemacht.</p>
                     <p>Dabei habe ich die Schulische Ausbildung bei der <a href="https://tbz.ch" target="_blank">TBZ</a> gemacht. </p>
                     <p>Im Moment Arbeite ich noch bei meiner Lehrfirma.</p>
-                    <p>In Zukunft bin ich aber an einer Weiterbildung als Dipl. Informatiker/in HF interressiert. </p>
+                    <p>In Zukunft bin ich aber an einer Weiterbildung als <a href="https://www.wiss.ch/de-CH/Angebot/Informatik/Dipl-Informatiker-in-HF">Dipl. Informatiker/in HF</a> interressiert. </p>
                 </div>
             </div>
         </div>
