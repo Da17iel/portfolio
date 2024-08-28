@@ -15,6 +15,30 @@ export default {
             fontFamily: {
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
+            animation: {
+                slideLeftIn: 'slideLeftIn 1s ease-in-out',
+                slideLeftInDelay1s: 'slideLeftIn 1s ease-in-out both',
+                slideLeftInDelay2s: 'slideLeftIn 1s ease-in-out 1s both',
+                slideLeftInDelay3s: 'slideLeftIn 1s ease-in-out 2s both',
+                slideRightIn: 'slideRightIn 1s ease-in-out',
+                growText: 'growText 0.7s ease-in',
+            },
+            keyframes: {
+                slideLeftIn: {
+                    '0%': { transform: 'translateX(-300px)', opacity: 0 },
+                    '10%': { transform: 'translateX(-300px)', opacity: 0.3 },
+                    '100%': { transform: 'translateX(0)' },
+                },
+                slideRightIn: {
+                    from: { transform: 'translateX(300px)', opacity: 0.3 },
+                    to: { transform: 'translateX(0)' },
+                },
+                growText: {
+                    from: { fontSize: '70px' },
+                    to: { fontSize: '100px' }
+                }
+            }
+
         },
     },
 
