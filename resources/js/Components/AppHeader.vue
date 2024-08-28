@@ -20,7 +20,7 @@ onMounted(() => {
     <header :class="'fixed w-full flex justify-between px-14 py-8 font-bold text-xl ' + (showNavBarBackground ? 'bg-white shadow-xl' : 'bg-none text-white')">
         <p>Mein Portfolio</p>
 
-        <NavBar/>
+        <NavBar :text-color="(showNavBarBackground ? 'text-black' : 'text-white')" />
     </header>
 </template>
 
