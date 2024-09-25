@@ -5,9 +5,7 @@
 <template>
     <div class="my-24 flex flex-col lg:flex-row gap-4 lg:gap-20">
         <div class="animate-hoverMedium min-w-52 max-lg:max-w-52">
-            <a href="https://www.linkedin.com/" target="_blank">
-                <img src="/images/EmailIcon.png" alt="Email Icon">
-            </a>
+            <img src="/images/EmailIcon.png" alt="Email Icon">
         </div>
         <div class="w-full">
             <p class="text-3xl">E-Mail</p>

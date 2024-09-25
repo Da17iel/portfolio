@@ -16,7 +16,7 @@
             <a href="https://github.com/Da17iel" target="_blank">GitHub Daniel Greil Dev. Profil</a>
         </div>
         <div class="animate-hoverSlow min-w-52 max-lg:max-w-52">
-            <a href="https://www.linkedin.com/" target="_blank">
+            <a href="https://github.com/" target="_blank">
                 <img src="/images/GitHubIcon.png" alt="GitHub Icon">
             </a>
         </div>
