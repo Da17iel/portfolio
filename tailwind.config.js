@@ -21,6 +21,7 @@ export default {
                 slideLeftInDelay3s: 'slideLeftIn 1s ease-in-out 2s both',
                 slideRightIn: 'slideRightIn 1s ease-in-out',
                 growText: 'growText 0.7s ease-in',
+                hover: 'hover 3s linear infinite'
             },
             keyframes: {
                 slideLeftIn: {
@@ -35,7 +36,14 @@ export default {
                 growText: {
                     from: { fontSize: '70px' },
                     to: { fontSize: '100px' }
-                }
+                },
+                hover: {
+                    '0%': { transform: 'translateY(0)' },
+                    '25%': { transform: 'translateY(+5px)' },
+                    '50%': { transform: 'translateY(0)' },
+                    '75%': { transform: 'translateY(-10px)' },
+                    '100%': { transform: 'translateY(0)' },
+                },
             }
 
         },

@@ -1,6 +1,5 @@
 <script setup>
 import BasicLayout from "@/Layouts/BasicLayout.vue";
-import {onMounted} from "vue";
 import HomePageInitialQuestions from "@/Components/HomePageInitialQuestions.vue";
 import HomePageShortAboutMe from "@/Components/HomePageShortAboutMe.vue";
 

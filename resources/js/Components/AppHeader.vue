@@ -17,7 +17,7 @@ onMounted(() => {
 
 <template>
     <header
-        :class="'fixed w-full flex justify-between px-14 py-8 font-bold text-xl z-50 ' + (!showNavBarBackground && $page.component === 'Homepage' ?  'bg-none text-white' : 'bg-white text-black shadow-xl')">
+        :class="'fixed w-full flex justify-between top-0 px-14 py-8 font-bold text-xl z-50 ' + (!showNavBarBackground && $page.component === 'Homepage' ?  'bg-none text-white' : 'bg-white text-black shadow-xl')">
         <p>Mein Portfolio</p>
 
         <NavBar
