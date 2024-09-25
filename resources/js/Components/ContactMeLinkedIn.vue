@@ -12,12 +12,11 @@
                 über wichtige Nachrichten und Weltgeschehen zu Informieren.
                 <br>Ich benutze LinkedIn hauptsächlich um mich auf den Laufenden bezüglich Technik und Arbeitsmarkt zu halten.
             </p>
-            <a href="https://www.linkedin.com/in/daniel-greil-6b8b63230/" target="_blank">LinkedIn Daniel Greil
-                Profil</a>
+            <a href="https://www.linkedin.com/in/daniel-greil-6b8b63230/" target="_blank">LinkedIn Daniel Greil Profil</a>
         </div>
         <div class="animate-hover min-w-52 max-lg:max-w-52">
             <a href="https://www.linkedin.com/" target="_blank">
-                <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Icon">
+                <img src="/images/LinkedInIcon.png" alt="LinkedIn Icon">
             </a>
         </div>
     </div>
