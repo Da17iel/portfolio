@@ -21,7 +21,9 @@ export default {
                 slideLeftInDelay3s: 'slideLeftIn 1s ease-in-out 2s both',
                 slideRightIn: 'slideRightIn 1s ease-in-out',
                 growText: 'growText 0.7s ease-in',
-                hover: 'hover 3s linear infinite'
+                hoverFast: 'hover 2.5s linear infinite',
+                hoverMedium: 'hover 3.5s linear infinite',
+                hoverSlow: 'hover 5s linear infinite',
             },
             keyframes: {
                 slideLeftIn: {

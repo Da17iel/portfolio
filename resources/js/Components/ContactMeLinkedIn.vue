@@ -14,7 +14,7 @@
             </p>
             <a href="https://www.linkedin.com/in/daniel-greil-6b8b63230/" target="_blank">LinkedIn Daniel Greil Profil</a>
         </div>
-        <div class="animate-hover min-w-52 max-lg:max-w-52">
+        <div class="animate-hoverFast min-w-52 max-lg:max-w-52">
             <a href="https://www.linkedin.com/" target="_blank">
                 <img src="/images/LinkedInIcon.png" alt="LinkedIn Icon">
             </a>
