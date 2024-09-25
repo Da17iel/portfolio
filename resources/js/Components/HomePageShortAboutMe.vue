@@ -6,8 +6,8 @@
     <div>
         <p class="font-bold text-2xl text-center mb-12">Kurz zu mir:</p>
         <div class="flex justify-center">
-            <div class="flex gap-10 w-[80%]">
-                <div class="w-1/3">
+            <div class="flex flex-col md:flex-row gap-10 w-[80%]">
+                <div class="w-full lg:w-1/3">
                     <img src="/images/Daniel.jpg" alt="Daniel Greil">
                 </div>
                 <div class="flex flex-col w-full text-lg gap-3">
