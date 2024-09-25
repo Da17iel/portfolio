@@ -1,6 +1,5 @@
 <script setup>
 import {onMounted, ref} from "vue";
-import {Link} from "@inertiajs/vue3";
 import NavBar from "@/Components/NavBar.vue";
 
 const showNavBarBackground = ref(false);
@@ -17,10 +16,14 @@ onMounted(() => {
 </script>
 
 <template>
-    <header :class="'fixed w-full flex justify-between px-14 py-8 font-bold text-xl z-50 ' + (showNavBarBackground ? 'bg-white shadow-xl' : 'bg-none text-white')">
+    <header
+        :class="'fixed w-full flex justify-between px-14 py-8 font-bold text-xl z-50 ' + (!showNavBarBackground && $page.component === 'Homepage' ?  'bg-none text-white' : 'bg-white text-black shadow-xl')">
         <p>Mein Portfolio</p>
 
-        <NavBar :text-color="(showNavBarBackground ? 'text-black' : 'text-white')" />
+        <NavBar
+            :text-style="(!showNavBarBackground && $page.component === 'Homepage' ?
+                'text-white hover:text-white hover:underline ' :
+                'text-black hover:text-black hover:underline')"/>
     </header>
 </template>
 
