@@ -7,10 +7,11 @@
         <div class="w-full">
             <p class="text-3xl">LinkedIn</p>
             <p class="my-3">
-                LinkedIn ist eine Website bei der Arbeitnehmer Arbeitgeber finden können. Und umgekehrt.
-                <br>Das ist aber nicht alles was LinkedIn zu bieten hat. LinkedIn wird global dafür Benutzt Firmen
-                über wichtige Nachrichten und Weltgeschehen zu Informieren.
-                <br>Ich benutze LinkedIn hauptsächlich um mich auf den Laufenden bezüglich Technik und Arbeitsmarkt zu halten.
+                LinkedIn ist eine Website, die Fachkräfte und Unternehmen weltweit verbindet. Es bietet weit mehr als
+                nur eine Plattform zur Jobsuche oder Rekrutierung. Mithilfe von LinkedIn können Arbeitgeber und Arbeitnehmer
+                stets über Entwicklungen im Arbeitsmarkt informiert bleiben.
+                <br>Ich nutze die Plattform primär, um mich über die neuesten Entwicklungen in der Technologiebranche
+                und am Arbeitsmarkt zu informieren.
             </p>
             <a href="https://www.linkedin.com/in/daniel-greil-6b8b63230/" target="_blank">LinkedIn Daniel Greil Profil</a>
         </div>

@@ -7,10 +7,10 @@
         <div class="w-full">
             <p class="text-3xl">GitHub</p>
             <p class="my-3">
-                Die GitHub Plattform brauch zu diesem Punkt keine Vorstellung. Jeder Developer, der in den letzten
-                Jahren aktiv am programmieren war, hat bereits mehrmals GitHub gebraucht.
+                Die GitHub-Plattform benötigt keine Vorstellung. Jeder Developer, der in den letzten
+                Jahren aktiv programmiert hat, hat bereits mehrmals GitHub gebraucht.
                 <br>Und so auch ich. GitHub ist die Plattform, bei der ich meinen Code hochlade. Ich arbeite regelmässig
-                auf GitHub. Geschäftlich und Privat!
+                auf GitHub. Geschäftlich und privat!
                 <br>Sie können mich gerne auch auf GitHub kontaktieren.
             </p>
             <a href="https://github.com/Da17iel" target="_blank">GitHub Daniel Greil Dev. Profil</a>

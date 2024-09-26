@@ -16,9 +16,9 @@ defineOptions({
         <div class="flex flex-col w-3/4">
             <h1 class="siteTitle">Kontakt</h1>
 
-            <p class="my-12">Sie möchten mich kontaktieren?</p>
+            <p class="">Sie haben Fragen bezüglich meiner Karriere, Website oder weiteren Themen? </p>
 
-            <p>Da biete ich Ihnen mehrere Möglichkeiten</p>
+            <p>Dann können Sie mich gerne mit einer der folgenden Arten kontaktieren. Ich freue mich auf Ihre Kontaktanfrage.</p>
 
             <ContactMeLinkedIn />
 

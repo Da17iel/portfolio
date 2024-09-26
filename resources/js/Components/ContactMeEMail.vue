@@ -11,9 +11,9 @@
             <p class="text-3xl">E-Mail</p>
             <p class="my-3">
                 Per E-Mail bin ich natürlich auch sehr gut erreichbar.
-                <br>Falls Sie in ein Telefongespräch mit mir interessiert sind, können Sie hier nach meiner Tel. Nummer
-                Fragen.
-                <br>Ich freue mich bereits sehr auf Ihr E-Mail
+                <br>Falls Sie an einem Telefongespräch mit mir interessiert sind, gebe ich Ihnen gerne meine
+                telefonischen Kontaktdaten. So könnten Sie auch telefonisch ein Bild von mir machen.
+                <br>Ich freue mich bereits sehr auf Ihre E-Mail.
             </p>
             <a href="mailto:danielgreil2004@gmail.com">Daniel Greil E-Mail Adresse: danielgreil2004@gmail.com</a>
         </div>
