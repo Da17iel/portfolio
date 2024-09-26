@@ -16,7 +16,7 @@ defineProps({
 </script>
 
 <template>
-    <Head title="Mein Portfolio" />
+    <Head title="Homepage" />
 
     <section>
         <div class="bg-[url('/images/background-1.jpg')] bg-cover h-screen">
